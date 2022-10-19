@@ -17,7 +17,7 @@ We've been tasked with the following:
 We created four different CSV files (campaign, category, subcategory, contacts) from a crowdfunding Excel file and uploaded the files into separate tables in a SQL database.
 
 We used regular expressions to clean the data and extract information into multiple columns
-![Independent Funding - Regex](./Images_for_README/regex.png)
+![Independent Funding - Regex](./Images_for_README/Regex.png)
 
 <br>
 Next, we created 2 new columns (first_name and last_name) to divide the 'name' column and drop it
@@ -32,7 +32,7 @@ In the 3rd deliverable, we created a crowdfunding relationship diagram to map ou
 <br>
 
 Lastly, we created 2 new queries to find the remaining goal amount for all live projects based on the contacts table and the remaining campaign goal amount from the backers table on all crowdfunding campaigns.
-![Independent Funding - Bonus](./Images_for_README/BONUS.png)
+![Independent Funding - Bonus](./Images_for_README/bonus.png)
 <br>
 
 ## Summary & Conclusion
